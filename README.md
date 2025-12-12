@@ -11,7 +11,7 @@ This project is a fully functional search engine designed to process search quer
 - C++ (C++17 standard)
 - nlohmann/json — library for working with JSON files
 - Standard C++ libraries:
-    - \<fstream>\, \<iostream>\, \<string>\, \<vector>\, \<map>\, \<thread>\, \<mutex>\, \<exception>\, \<unordered_set>\, \<unordered_map>\
+    - \<fstream>\, \<iostream>\, \<string>\, \<vector>\, \<map>\, \<thread>\, \<mutex>\, \<exception>\, \<unordered_set>\, \<unordered_map>
 
 ---
 
@@ -60,7 +60,7 @@ In the current implementation, environment variables are not required. All neces
 - *C++* (стандарт C++17)
 - *nlohmann/json* — библиотека для работы с файлами JSON
 - Стандартные библиотеки C++:
-    - \<fstream>\, \<iostream>\, \<string>\, \<vector>\, \<map>\, \<thread>\, \<mutex>\, \<exception>\, \<unordered_set>\, \<unordered_map>\
+    - \<fstream>\, \<iostream>\, \<string>\, \<vector>\, \<map>\, \<thread>\, \<mutex>\, \<exception>\, \<unordered_set>\, \<unordered_map>
 
 ---
 
